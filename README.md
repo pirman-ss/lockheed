@@ -10,4 +10,4 @@ Ini Gambar ![image](lockheed.png)
 
 saya laper!
 
-makan lah
+makan lah. Makan yuk
