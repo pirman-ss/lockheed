@@ -10,4 +10,4 @@ Ini Gambar ![image](images/lockheed.png)
 
 saya laper!
 
-makan lah. Makan yuk
+pengen makan ayam bakar!
