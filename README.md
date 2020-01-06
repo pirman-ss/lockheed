@@ -9,3 +9,5 @@ Ini link [Google](https:/www.google.com/)
 Ini Gambar ![image](lockheed.png)
 
 saya laper!
+
+makan lah
